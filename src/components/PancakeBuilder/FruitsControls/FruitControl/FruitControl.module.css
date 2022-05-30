@@ -1,0 +1,21 @@
+.FruitControl{
+    margin-bottom: 0.5rem;
+}
+.FruitControl .label{
+    color:#67371C;
+    font-size: 20px;
+    padding: 20px;
+}
+.FruitControl button {
+    border: 1px solid white;
+    color: #6FCFB8;
+    font-weight: bold;
+    font-size: 15px;
+    width: 30px;
+    height: 30px;
+    padding: 5pxpx;
+    border-radius: 100%;
+}
+.FruitControl .less:disabled{
+    background-color: rgb(194, 182, 182);
+}

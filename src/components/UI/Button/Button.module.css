@@ -1,0 +1,23 @@
+.Button{
+    border: none;
+    background-color: white;
+    color:#67371C ;
+    font-weight: bold;
+    cursor: pointer;
+    font-family: 'Pacifico', cursive;
+    text-transform: uppercase;
+}
+.Button:disabled{
+    opacity: .5;
+}
+.Button:not(:disabled):hover{
+    opacity: .8;
+}
+.red{
+    background-color: rgb(214, 67, 67);
+    color: white;
+}
+.green{
+    background-color: rgb(12, 173, 12);
+    color: white;
+}

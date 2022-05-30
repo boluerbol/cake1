@@ -1,0 +1,25 @@
+
+.Fruitskit .bento{
+    padding: 1rem;
+    position: relative;
+    
+    background-image: url(../../../assets/pancake.jpg);
+   
+    margin:  auto;
+    width: 450px;
+    height: 444px;
+    margin: 8px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-flow: wrap;
+    overflow: hidden;
+    border-radius: 100%;
+}
+.Fruitskit .price{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: "Pacifico", cursive;
+    color:#67371C;
+}
